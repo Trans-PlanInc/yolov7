@@ -16,10 +16,8 @@ protobuf<4.21.3
 # Cloud ---------------------------------------
 
 mldesigner
-azureml-defaults
-azureml-mlflow
-nvidia-pyindex
-nvidia-tensorrt
+azureml-defaults==1.46.0
+azureml-mlflow==1.46.0
 
 # Logging -------------------------------------
 tensorboard>=2.4.1
